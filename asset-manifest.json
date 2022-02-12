@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/image-slider-carousel/static/css/main.f554db2a.css",
+    "main.js": "/image-slider-carousel/static/js/main.9c6bdbd0.js",
+    "static/js/787.70fc1d41.chunk.js": "/image-slider-carousel/static/js/787.70fc1d41.chunk.js",
+    "index.html": "/image-slider-carousel/index.html",
+    "main.f554db2a.css.map": "/image-slider-carousel/static/css/main.f554db2a.css.map",
+    "main.9c6bdbd0.js.map": "/image-slider-carousel/static/js/main.9c6bdbd0.js.map",
+    "787.70fc1d41.chunk.js.map": "/image-slider-carousel/static/js/787.70fc1d41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f554db2a.css",
+    "static/js/main.9c6bdbd0.js"
+  ]
+}
